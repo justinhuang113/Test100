@@ -1,4 +1,7 @@
 This is text B
 
+<<<<<<< HEAD
 
-I editted this in main branch
+=======
+This is edittted in new_branch
+>>>>>>> new_branch
